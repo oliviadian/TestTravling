@@ -1,0 +1,26 @@
+#app{font-family: 'Montserrat', sans-serif;
+}
+input[type="file"]{
+    display: none;
+}
+label{
+    color: white;
+    height: 35px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    /* position: absolute; */
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #004085;
+    border-color: #fdfdfe;
+}
